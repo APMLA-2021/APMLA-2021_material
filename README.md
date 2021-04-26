@@ -16,7 +16,7 @@ For any general question about the course, use GitHub issues. Before posting, pl
 A **passcode** will be posted here the day of the lecture, it will change from week to week.  
 
 
-**Tutorials**: Thursday 16:00-17.45pm  online on [Zoom](https://zoom.us/j/99581700609). 
+**Tutorials**: Friday 16:00-17.45pm  online on [Zoom](https://zoom.us/j/99581700609)   
 
 **Feedback**: after every lecture you are free to give a feedback via this [form](https://forms.gle/LZbAqG5428AXEcS28) (lecture) and this [form](https://forms.gle/KJb7RmF8QaVtFDVm8) (tutorial).
 
