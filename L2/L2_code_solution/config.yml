@@ -1,0 +1,13 @@
+options:
+  config_file: config.yml
+  default_dirs: []
+  error_file: stderr.txt
+  exist_ok: true
+  git_hash: 63a765d
+  output_dir: example/student1/
+  output_file: stdout.txt
+  timestamp: 2020-10-22-13:20:37
+  verbose: true
+tutorial:
+- 2
+verbose: false
