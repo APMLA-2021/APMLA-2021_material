@@ -10,6 +10,10 @@
 
 For any general question about the course, use GitHub issues. Before posting, please make sure your question has not been previously answered. Only in case of private question, send us an email. 
 
+**NEWS**: **Exam** dates are confirmed: 
+1. Wed 28.07.21, 14.00-16.00pm (room N10) 
+2. Wed 29.09.21, 14.00-16.00pm (room  N16+N15) 
+
 **Plan**:  19 Apr 2021 - 31 Jul 2021, 14 weeks, 2+2 hr/week, 14 weeks, 56hr
 
 **Lectures**:  Wednesdays 14:15-16pm online on [Zoom](https://zoom.us/j/94529176606), **Passcode**: 120521 
