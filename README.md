@@ -29,7 +29,7 @@ A **passcode** will be posted here the day of the lecture, it will change from w
 
 **Tutorials**: Friday 16:00-17.45pm  online on [Zoom](https://zoom.us/j/99581700609)   
 
-**Feedback**: after every lecture you are free to give a feedback via this [form](https://forms.gle/KPxeLYctGKSnBqU76) (lecture) and this [form](https://forms.gle/xgK5r2A7hmchXZLH6) (tutorial).
+**Feedback**: after every lecture you are free to give a feedback via this [form](https://forms.gle/VmrUhcZpJsXbweDX8) (lecture) and this [form](https://forms.gle/xgK5r2A7hmchXZLH6) (tutorial).
 
 **Lecture-free days**: Thursday, 13. Mai 2021 (Christi Himmelfahrt), from Monday, 24. Mai 2021 until Sunday, 30. Mai 2021 (Pfingstpause), Thursday, 3. Juni 2021 (Fronleichnam).  
 
