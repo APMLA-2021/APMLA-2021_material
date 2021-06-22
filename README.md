@@ -29,7 +29,7 @@ A **passcode** will be posted here the day of the lecture, it will change from w
 
 **Tutorials**: Friday 16:00-17.45pm  online on [Zoom](https://zoom.us/j/99581700609)   
 
-**Feedback**: after every lecture you are free to give a feedback via this [form](https://forms.gle/PBaPKf241cDPmocA6) (lecture) and this [form](https://forms.gle/xgK5r2A7hmchXZLH6) (tutorial).
+**Feedback**: after every lecture you are free to give a feedback via this [form](https://forms.gle/epwPUbwveRhbRjiq8) (lecture) and this [form](https://forms.gle/xgK5r2A7hmchXZLH6) (tutorial).
 
 **Lecture-free days**: Thursday, 13. Mai 2021 (Christi Himmelfahrt), from Monday, 24. Mai 2021 until Sunday, 30. Mai 2021 (Pfingstpause), Thursday, 3. Juni 2021 (Fronleichnam).  
 
@@ -59,11 +59,11 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
     * _Reference_: MM  
 7. **Bethe Approximation and Belief Propagation part II** 
 8. **Stochastic Block Model**  
-9. **Poisson matrix factorization**
-10. **Probabilistic matrix factorization** for recommender systems
-11. **GMMs + Variational Inference (VI)** 
-13. **VI + LDA** 
-14. **Advanced VI: Stochastic VI and Black Box VI** 
+9. **GMMs + Variational Inference (VI)** 
+10. **Poisson matrix factorization**
+11. **Probabilistic matrix factorization** for recommender systems
+12. **VI + LDA** 
+13. **Advanced VI: Stochastic VI and Black Box VI** 
     
 
 ### References
