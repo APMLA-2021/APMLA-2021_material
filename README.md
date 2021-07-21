@@ -10,8 +10,6 @@
 
 For any general question about the course, use GitHub issues. Before posting, please make sure your question has not been previously answered. Only in case of private question, send us an email. 
 
-**NEWS**: (informal) registration to the class: please fill up the google form [here](https://forms.gle/sb3yQLZfRybDrDwT9), it is asked by the Uni admin.
-
 **OLD: assignement submission closed**  
 Assignement has been uploaded! 
 Please use the pseudo code that you find inside the `A1` folder as a template to write the solutions, rename it as surname_name_A1_2021.ipynb (if you are submitting by yourself, otherwise surname1_name1_surname2_name2_A1_2021.ipynb if you are submitting in a 2-people group, similar for 3-people groups, where you should replace surname and name with yours). Similarly, please upload a unique .zip file containing the notebook and in case additional material (e.g. figures), again using the format `surname_name_A1_2021.zip` (and similar for groups of 2 or 3 people).  
@@ -30,7 +28,7 @@ A **passcode** will be posted here the day of the lecture, it will change from w
 
 **Tutorials**: Friday 16:00-17.45pm  online on [Zoom](https://zoom.us/j/99581700609)   
 
-**Feedback**: after every lecture you are free to give a feedback via this [form](https://forms.gle/DDLeXFDCTJn6NC6T8) (lecture) and this [form](https://forms.gle/QNejgrwBAkUGo4DH6) (tutorial).
+**Feedback**: after every lecture you are free to give a feedback via this [form](https://forms.gle/rst7iai91JsrRuUL6) (lecture) and this [form](https://forms.gle/QNejgrwBAkUGo4DH6) (tutorial).
 
 **Lecture-free days**: Thursday, 13. Mai 2021 (Christi Himmelfahrt), from Monday, 24. Mai 2021 until Sunday, 30. Mai 2021 (Pfingstpause), Thursday, 3. Juni 2021 (Fronleichnam).  
 
